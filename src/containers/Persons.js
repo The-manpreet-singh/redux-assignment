@@ -21,7 +21,7 @@ class Persons extends Component {
                         clicked={() => this.props.onRemovedPerson(person.id)}/>
                 ))}
             </div>
-        );
+        ); 
     }
 }
 
