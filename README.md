@@ -1,4 +1,4 @@
-# redux-assignment
+# redux-assignment Udemy Assignment
 
 I created a redux app. I'm going to use React, redux, html5, css3 .
 
